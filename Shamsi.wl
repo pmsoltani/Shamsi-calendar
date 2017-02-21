@@ -41,7 +41,7 @@ Gregorian\[Rule]Shamsi:
 *)
 
 	ShLeapYearQ::usage="ShLeapYearQ[year] returns True if year is a leap year,
-		and False if otherwise. Note: 1300\[LessEqual]y\[LessEqual]1469.";
+		and False if otherwise. Note: 1300\[LessEqual]y\[LessEqual]1469."
 
 	ShDaysSince::usage="ShDaysSince[year,month,day] returns the number of days passed
 		since the defined Shamsi calendar origin, 1300/01/01. Note: 1300\[LessEqual]y\[LessEqual]1469."
@@ -50,10 +50,10 @@ Gregorian\[Rule]Shamsi:
 		Shamsi calendar origin, 1300/01/01. Note: 0\[LessEqual]days\[LessEqual]62091."
 
 	ToGregorian::usage="ToGregorian[year,month,day] returns the corresponding
-		Gregorian date of the Shamsi date year/month/day"
+		Gregorian date of the Shamsi date year/month/day."
 
 	ToShamsi::usage="ToShamsi[year,month,day] returns the corresponding Shamsi date
-		of the Gregorian date year/month/day"
+		of the Gregorian date year/month/day."
 
 
 
