@@ -5,7 +5,7 @@ Shamsi calendar for the Wolfram Language
 This package provides functions to convert Shamsi to/from Gregorian date. The applicable range is: 1300/01/01 to 1469/12/29 (or 1921/03/21 to 2091/03/19).
 
 ## Installation
-1. Download the latest release from ???.
+1. Download the latest release.
 2. Copy the file “Shamsi.wl” to one of the folders obtained by evaluating the following command in Mathematica:
 	 `FileNameJoin[{$UserBaseDirectory,"Applications"}]`
 3. Use the command `Needs["Shamsi`"]` to load the package.
