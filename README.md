@@ -1,4 +1,6 @@
 # Shamsi-calendar
+![alt text][MIT badge]
+
 Shamsi calendar for the Wolfram Language
 
 ## Description
@@ -19,3 +21,5 @@ The package itself is developed using Mathematica v11 on macOS.
 
 ## Contributions
 Any thoughts, suggestions, contributions are welcome. The functions need to be optimized for speed & error checking. Additional options and messages are also important.
+
+[MIT badge]: https://img.shields.io/cocoapods/l/AFNetworking.svg
