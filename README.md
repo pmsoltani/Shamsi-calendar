@@ -12,12 +12,12 @@ This package provides functions to convert Shamsi to/from Gregorian date. The ap
 	 `FileNameJoin[{$UserBaseDirectory,"Applications"}]`
 3. Use the command `Needs["Shamsi`"]` to load the package.
 
+
 For 1-time uses, you can first Import the “Shamsi.wl” file and then use the `Needs` command to load the package.
 
 ## Compatibility
-The package uses the built-in functions `DatePlus` and `DateDifference` which were both introduced in Mathematica v6 and were updated in v10.
-
-The package itself is developed using Mathematica v11 on macOS.
+The package uses functions like `CalendarConvert` which are newly added to the language; so the minimum version is v10. You can use v1.0 of this package (which has limited functionality), if you don't have the new Mathematica.
+This package is developed using Mathematica v11 on macOS.
 
 ## Contributions
 Any thoughts, suggestions, contributions are welcome. The functions need to be optimized for speed & error checking. Additional options and messages are also important.
